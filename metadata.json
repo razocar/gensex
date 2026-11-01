@@ -1,0 +1,6 @@
+{
+  "name": "GENSEX",
+  "description": "Sitio web del Grupo de Investigación en Género y Sexualidades en Contextos de Diversidades Culturales (GENSEX) de la Universidad Autónoma de Chile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
